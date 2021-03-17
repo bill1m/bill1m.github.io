@@ -1,7 +1,6 @@
 # Welcome to Bill's Home Page
 
-## Introduction
-I'll be posting information on my apps, repositories, gists, and general programming topics.
+Here is a little information on my apps, repositories, gists, and other general programming topics.
 
 ## Apps
 
